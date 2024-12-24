@@ -1,0 +1,11 @@
+name=potato
+price=35
+name=rice
+price=58
+name=tomato  
+price=40
+name=cabbage
+price=20
+name=brinjal
+price=30
+name=1

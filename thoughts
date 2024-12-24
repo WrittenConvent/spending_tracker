@@ -1,0 +1,20 @@
+21.12.24 .......................
+I don't even know where to start, what to donhow the fuck am i supposed to even do it
+let's try thinkung the path first . What are the things I need? Andneed to do?
+For the finance tracker instead of the android app, lets make it here first .
+ I need a database which keeps the track of dates new data is put and a place to put thr new data. Shhould I make considerations for time element . Nah that would complicate it too much, Lets start simple now.
+ Next step is to store thr prices or amounts spent , preferabbly in serial numbers.
+I should make a future scope for this project and write down the ideas that are too complicated for me now.Done.
+Now for the database let' look at the face reco project. It didn't help. I have to ask gpt , ..... so soon.
+Before that I will atleast trygoogling.
+22.12.24 .....................
+I will use sqlite for the database
+I will start from there
+First I will create a dictnary to do it then see where it goes from there
+23.12.24 ......................
+I will try to make the output saved to a file
+Lets also try to push this to github and check if I can still see the previous record
+
+  FUTURE SCOPE
+  1. Having a Time Element Marking
+  2. To Add The Names Of Items the Money is Spent
